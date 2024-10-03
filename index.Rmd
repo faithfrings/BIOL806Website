@@ -1,0 +1,13 @@
+---
+title: "Home"
+output: html_document
+date: "2024-10-02"
+---
+
+# Welcome to My Website
+
+This is the homepage of my website created using **RMarkdown** and **GitHub Pages**.
+
+## Explore More
+
+Use the navigation bar at the top to explore other pages of this website.
